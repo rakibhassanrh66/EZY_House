@@ -66,7 +66,7 @@ FlutterFire CLI, Wireless ADB Debugging
 
 
 # 1. Clone & Navigate
-git clone E:\Flutter Project\ezy_house2\testr\EZY_House
+git clone E:\Flutter Project\ezy_house2\EZY_House
 cd ezy_house
 
 # 2. Install Dependencies
